@@ -1,0 +1,10 @@
+CREATE KEYSPACE myretailspace WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 3 };
+
+CREATE TABLE product_price (
+   ... product_id bigint PRIMARY KEY,
+   ... price decimal,
+   ... ccy_code text,
+   ... last_modified_ts timestamp);
+
+
+INSERT INTO product_price (product_id, price, ccy_code, last_modified_ts) values (13860428, 10.50, 'USD', dateof(now()));

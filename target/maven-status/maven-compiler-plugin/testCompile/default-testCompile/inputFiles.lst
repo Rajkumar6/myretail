@@ -1,0 +1,7 @@
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/configuration/PersistenceConfigurationTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/exception/ItemNotFoundExceptionTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/persistence/ProductPriceDataAccessImplTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/controller/ErrorHandlerTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/service/ProductPriceServiceImplTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/exception/ExternalSystemExceptionTest.java
+/home/deepan/IdeaProjects/MyRetail/src/test/java/com/deepan/target/myretail/controller/ProductPriceControllerTest.java

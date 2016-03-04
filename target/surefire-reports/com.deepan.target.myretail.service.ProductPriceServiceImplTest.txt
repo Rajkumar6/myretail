@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.deepan.target.myretail.service.ProductPriceServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.486 sec - in com.deepan.target.myretail.service.ProductPriceServiceImplTest
